@@ -1,2 +1,2 @@
 # Sparks Foundation Intership
- Simple banl transaction webpage
+ Simple bank transaction webpage
