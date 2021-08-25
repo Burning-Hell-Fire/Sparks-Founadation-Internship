@@ -14,7 +14,7 @@
                 <div class="header">
                     <div class="inner_header">
                         <div class="logo">
-                            <a href="main.php" >Hero Bank</a>
+                            <a href="index.php" >Hero Bank</a>
                         </div>
                         <div class="header_link">
                             <a href="#">Sign Up</a>
