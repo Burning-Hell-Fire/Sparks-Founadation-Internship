@@ -101,6 +101,7 @@ nav{
     width: 50%; 
     margin: auto; 
     overflow: hidden;
+    padding-left: 10%;
 }
 .items{
     width: 30%; 
