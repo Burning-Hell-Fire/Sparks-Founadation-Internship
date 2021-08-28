@@ -24,7 +24,7 @@ CREATE TABLE `transaction` (
   `receiver` text NOT NULL,
   `balance` int(8) NOT NULL,
   `datetime` datetime NOT NULL DEFAULT current_timestamp()
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+) ENGINE=MariaDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `transaction`
